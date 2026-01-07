@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Ty/Documents/Gravity Simulator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gravity_simulator.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\gravity_simulator.dir\\src\\main.cpp.obj -c \"C:\\Users\\Ty\\Documents\\Gravity Simulator\\src\\main.cpp\"",
+  "file": "C:/Users/Ty/Documents/Gravity Simulator/src/main.cpp",
+  "output": "CMakeFiles/gravity_simulator.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ty/Documents/Gravity Simulator/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gravity_simulator.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\gravity_simulator.dir\\src\\math.cpp.obj -c \"C:\\Users\\Ty\\Documents\\Gravity Simulator\\src\\math.cpp\"",
+  "file": "C:/Users/Ty/Documents/Gravity Simulator/src/math.cpp",
+  "output": "CMakeFiles/gravity_simulator.dir/src/math.cpp.obj"
+}
+]
